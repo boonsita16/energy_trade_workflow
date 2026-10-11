@@ -1,0 +1,11 @@
+﻿market,product,delivery_start,market_price,price_unit,observed_at,source
+SE3,Day-Ahead,10/7/2026 18:00,145,EUR/MWh,10/7/2026 15:00,Nord Pool
+DK1,Day-Ahead,10/7/2026 18:00,205,EUR/MWh,10/7/2026 15:00,Nord Pool
+DE-LU,Day-Ahead,10/7/2026 18:00,198,EUR/MWh,10/7/2026 15:00,EPEX
+SE3,Day-Ahead,10/7/2026 20:00,132,EUR/MWh,10/7/2026 15:00,Nord Pool
+FI,Day-Ahead,10/8/2026 12:00,18,EUR/MWh,10/7/2026 15:00,Nord Pool
+DK1,Day-Ahead,10/8/2026 19:00,150,EUR/MWh,10/7/2026 15:00,Nord Pool
+TTF,Month-Ahead,11/1/2026,33,EUR/MWh,10/7/2026 15:00,ICE
+DE-LU,Calendar-Year Future,1/1/2027,79,EUR/MWh,10/7/2026 15:00,EEX
+SE3,Day-Ahead,10/8/2026 18:00,110,EUR/MWh,10/7/2026 15:00,Nord Pool
+EUA,Dec-26 Future,12/1/2026,80,EUR/t,10/7/2026 15:00,EEX
